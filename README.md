@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
+- 💻 I’m working with **IntelliJ and VS-Code**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/X9Ng4KSJkE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="X9Ng4KSJkE" height="30" width="40" /></a>
