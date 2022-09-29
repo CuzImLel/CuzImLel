@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Minecraft Plugins and Discord Bots**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Web-Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
