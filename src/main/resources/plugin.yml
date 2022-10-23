@@ -1,7 +1,0 @@
-name: PvpPlugin
-version: '${project.version}'
-main: de.cuzimlel.pvpplugin.Main
-api-version: 1.19
-authors: [ Cuz_im_Lel ]
-commands:
-
