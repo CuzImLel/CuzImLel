@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CuzImLel;D</h1>
-<h3 align="center">Im 15 Years old and a Hobby-Developer!</h3>
+<h3 align="center">Im 16 Years old and a Hobby-Developer!</h3>
 
 - 🔭 I’m currently working on **Minecraft Plugins and Discord Bots**
 
