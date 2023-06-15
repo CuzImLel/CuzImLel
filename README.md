@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Im 16 Years old and a Hobby-Developer!</h3>
 
-- 🔭 I’m currently working on **Minecraft Plugins, Discord Bots and Websites**
-
-- 🌱 I’m currently learning **Webdevelopment**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/cuz_im_lel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cuz_im_lel" height="30" width="40" /></a>
