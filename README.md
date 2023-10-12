@@ -1,12 +1,12 @@
-<h1 align="center">Hey 👋 I'm Daniel,</h1>
+<h1 align="center" style="color: white; text-decoration: none;">Hey 👋 I'm Daniel,</h1>
 
 ###
 
-<h3 align="center">A Fullstack-Webdeveloper</h3>
+<h3 align="center" style="color: white; text-decoration: none;">A Fullstack-Webdeveloper</h3>
 
 ###
 
-<h3 align="center">Technologies i use:</h3>
+<h3 align="center" style="color: white; text-decoration: none;">Technologies I use:</h3>
 
 ###
 
