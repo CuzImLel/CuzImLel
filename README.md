@@ -1,22 +1,12 @@
-<br clear="both">
-
 <h1 align="center">Hey 👋 I'm Daniel,</h1>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">A Fullstack-Webdeveloper</h3>
 
 ###
 
-<p align="center"></p>
-
-###
-
-<br clear="both">
-
-<h2 align="center">Technologies i use:</h2>
+<h3 align="center">Technologies i use:</h3>
 
 ###
 
